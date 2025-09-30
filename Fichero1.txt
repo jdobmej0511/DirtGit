@@ -1,4 +1,3 @@
-Lineal1: Juan
-Lineal2: Hernández
-Lineal3: 1
-2DAW
+Lineal1: José
+Lineal2: Dobla
+Lineal3: 1DAW
