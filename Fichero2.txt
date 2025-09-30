@@ -1,0 +1,3 @@
+Lineal1: ED
+Lineal2: Turno Mañana
+Lineal3: CEIFP Alan Turing

@@ -1,0 +1,3 @@
+Lineal1: Lineal2
+Lineal2: Linea13
+Linea13: Lineal1
